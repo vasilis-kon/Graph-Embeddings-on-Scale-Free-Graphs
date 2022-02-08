@@ -6,7 +6,7 @@
 Τα χαρακτηριστικά εξετάζονται για τους generators :jessen full,jessen minimal, ordered, random, romantic,
 powerlaw cluster, barabasi albert,barabasi nx clique, barabasi igraph
 
-bins for features
+Για αναπαραγωγή των απολεσμάτων που θα βρείτε στους φακέλους θα πρέπει να χρησιμοποιήσετε τα παρακάτω bins στο αρχείο create_distributions:
 S-metric                              24
 Average clustering                    24
 Transitivity                          24
